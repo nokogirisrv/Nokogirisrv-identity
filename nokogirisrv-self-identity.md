@@ -25,3 +25,14 @@ node address:
 ```
 0xF0372ac84F3Bf4788f0dA60dB0D454394666A72b
 ```
+
+
+# Our Testnets that we validate:
+## Ojo
+## Althea
+## Fleek
+## Taiko
+## Dymension
+## Avail
+## Arkeo
+## Penumbra
