@@ -4,7 +4,7 @@
 
 A team of engineers focused on supporting blockchain-based projects that are still in the development or production stage.
 
-# Our crypto-based projects that we are validating:
+# Our projects that we are validating on mainnet:
 ### [Kusama](https://kusama.network/)
 
 validator address:
