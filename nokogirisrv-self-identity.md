@@ -34,5 +34,5 @@ node address:
 ## Taiko
 ## Dymension
 ## Avail
-## Arkeo
 ## Penumbra
+## Arkeo
