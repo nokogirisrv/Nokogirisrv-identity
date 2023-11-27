@@ -26,6 +26,8 @@ node address:
 0xF0372ac84F3Bf4788f0dA60dB0D454394666A72b
 ```
 
+### [Nym](https://nymtech.net/)
+
 
 # Our Testnets that we validate:
 ## Ojo
