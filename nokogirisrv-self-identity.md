@@ -27,6 +27,10 @@ node address:
 ```
 
 ### [Nym](https://nymtech.net/)
+identity key:
+```
+5cmHbF6ahtdxZ3cUHapkPMcSJHqP1wHYeEpUbzmPmrnp
+```
 
 
 # Our Testnets that we validate:
