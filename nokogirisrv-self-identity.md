@@ -8,6 +8,11 @@ A team of engineers focused on supporting blockchain-based projects that are sti
 ### [Kusama](https://kusama.network/)
 
 validator address:
+Nokogirisrv
+```
+HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr
+```
+Nokogirisrv-2
 ```
 HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr
 ```
