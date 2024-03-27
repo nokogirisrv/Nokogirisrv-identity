@@ -39,7 +39,7 @@ identity key:
 ```
 
 
-# Our Testnets that we validate:
+# Our Testnets that we participated:
 ## Ojo
 ## Althea
 ## Fleek
@@ -48,3 +48,4 @@ identity key:
 ## Avail
 ## Penumbra
 ## Arkeo
+## Side Protocol
