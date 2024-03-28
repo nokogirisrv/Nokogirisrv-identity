@@ -49,3 +49,4 @@ identity key:
 ## Penumbra
 ## Arkeo
 ## Side Protocol
+## Hyperbridge
