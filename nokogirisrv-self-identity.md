@@ -50,3 +50,4 @@ identity key:
 ## Arkeo
 ## Side Protocol
 ## Hyperbridge
+## Nosana
