@@ -51,3 +51,4 @@ identity key:
 ## Side Protocol
 ## Hyperbridge
 ## Nosana
+## dWallet Network
