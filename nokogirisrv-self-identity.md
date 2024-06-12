@@ -52,3 +52,4 @@ identity key:
 ## Hyperbridge
 ## Nosana
 ## dWallet Network
+## Kuzko
