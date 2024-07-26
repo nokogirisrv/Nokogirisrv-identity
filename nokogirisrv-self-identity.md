@@ -53,3 +53,4 @@ identity key:
 ## Nosana
 ## dWallet Network
 ## Kuzko
+## Near
