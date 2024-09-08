@@ -54,3 +54,4 @@ identity key:
 ## dWallet Network
 ## Kuzko
 ## Near
+## Nesa
