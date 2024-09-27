@@ -55,3 +55,4 @@ identity key:
 ## Kuzko
 ## Near
 ## Nesa
+## Vana
