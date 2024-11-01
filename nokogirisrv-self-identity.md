@@ -56,3 +56,4 @@ identity key:
 ## Near
 ## Nesa
 ## Vana
+## Covalent
